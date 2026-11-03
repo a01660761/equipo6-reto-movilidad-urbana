@@ -1,6 +1,5 @@
 # Reto: Movilidad Urbana — Equipo 6:
-- 
-- 
+
 ## Descripción del proyecto
 
 Proyecto académico de la unidad de formación TC2008B, Sistemas
@@ -12,9 +11,8 @@ en WebGL. En el mapa proporcionado, los vehículos deberán desplazarse
 hacia sus destinos, respetando el sentido de las calles y los semáforos,
 evitando diferentes obstáculos y colisiones.
 
-La simulación permitirá estudiar el comportamiento del tráfico y
-explorar estrategias para reducir la congestión vehicular. Un servidor
-conectará el modelo de Mesa con su representación gráfica en WebGL.
+Un servidor conectará el modelo de Mesa con su representación gráfica en 
+WebGL.
 
 ## Integrantes del equipo
 
